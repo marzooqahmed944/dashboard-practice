@@ -17,7 +17,8 @@ const CheckBox = ({
         "py-2",
         "px-4",
         "flex",
-        "justify-between"
+        "justify-between",
+        "font-medium"
       )}
       onClick={toggleChecked}
     >
