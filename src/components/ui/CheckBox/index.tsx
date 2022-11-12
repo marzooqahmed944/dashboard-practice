@@ -18,7 +18,8 @@ const CheckBox = ({
         "px-4",
         "flex",
         "justify-between",
-        "font-medium"
+        "font-medium",
+        "rounded-full",
       )}
       onClick={toggleChecked}
     >
